@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Open Qaida book with a crescent above it. Safe zone: central 66dp of 108dp. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Crescent -->
+    <path
+        android:fillColor="#FFF59E0B"
+        android:pathData="M54,26a10,10 0,1 0,9.5 13.2a8,8 0,1 1,-9.5 -13.2z" />
+    <!-- Left page -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M30,48c8,-3 16,-2 23,3v32c-7,-5 -15,-6 -23,-3z" />
+    <!-- Right page -->
+    <path
+        android:fillColor="#FFECFDF5"
+        android:pathData="M78,48c-8,-3 -16,-2 -23,3v32c7,-5 15,-6 23,-3z" />
+    <!-- Text lines -->
+    <path
+        android:strokeColor="#FF15803D"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M35,56h12M35,63h12M35,70h12M61,56h12M61,63h12M61,70h12" />
+</vector>
